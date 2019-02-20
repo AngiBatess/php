@@ -1,24 +1,12 @@
 <?php
 include 'menu.php';
-echo '<!DOCTYPE html>
-<html>
-<body>
+echo '
 
-<h1>Angie\'s Page 2"</h1>
+<h1>New</h1>
 
 <p>My first paragraph.</p>
 
-</body>
-</html>
 ';
-
-
-
-
-
-
-
-
-
+include 'footer.php';
 
 >

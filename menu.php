@@ -1,7 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PHP Test</title>
+  </head>
+<body>
 <p>
-  <a href="index.php">Index Page</a>
-  <a href="page2.php">Page 2</a>
-  <a href="page3.php">Page 3</a>
-  <a href="page4.php">Page 4</a>
-  <a href="page5.php">Page 5</a>
+  <img src="fluid.jpg" style="width:100%;">
 </p>
+<center>
+<p>
+  <a href="index.php">Home</a>
+  <a href="page2.php">New</a>
+  <a href="page3.php">Art</a>
+  <a href="page4.php">Sale</a>
+  <a href="page5.php">Contact</a>
+
+</p>
+<div style="height: 100px;"></div>
