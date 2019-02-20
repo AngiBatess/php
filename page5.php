@@ -1,12 +1,6 @@
 <?php
-include 'menu.php';
-echo '
-
-<h1>Contact5</h1>
-
+include 'menu.php'; ?>
+<h1>Contact</h1>
 <p>My first paragraph.</p>
 
-';
-include 'footer.php';
-
->
+<?php include 'footer.php'; ?>
